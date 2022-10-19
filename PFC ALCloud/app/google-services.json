@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007612830267",
+    "firebase_url": "https://alcloud-e5e3b-default-rtdb.firebaseio.com",
+    "project_id": "alcloud-e5e3b",
+    "storage_bucket": "alcloud-e5e3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007612830267:android:b068a60133fc4e9299f21e",
+        "android_client_info": {
+          "package_name": "net.devalbert.alcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007612830267-gddb21lnko9p8tudc5l92nt3d5o2c1t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXtyu-bv3j2Ltp2mdHXbCXdYQvlveiRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007612830267-gddb21lnko9p8tudc5l92nt3d5o2c1t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

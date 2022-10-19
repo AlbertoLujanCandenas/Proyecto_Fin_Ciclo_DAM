@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ALCloud</string>
+    <string name="title_activity_main">Firebase Storage</string>
+    <string name="subtitle_activity_main">Subir archivos</string>
+    <string name="all">TODO</string>
+    <string name="upload">SUBIR ARCHIVOS</string>
+    <string name="prefs_file">net.devalberto.alcloud.PREFERENCE_FILE_KEY</string>
+</resources>
